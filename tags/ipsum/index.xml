@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ipsum on My New Hugo Site</title>
-    <link>https://example.org/tags/ipsum/</link>
-    <description>Recent content in ipsum on My New Hugo Site</description>
+    <title>ipsum on zvcq&#39;s Blog</title>
+    <link>https://zvcq.github.io/tags/ipsum/</link>
+    <description>Recent content in ipsum on zvcq&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 20 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="https://zvcq.github.io/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem ipsum</title>
-      <link>https://example.org/post/test/</link>
+      <link>https://zvcq.github.io/post/test/</link>
       <pubDate>Mon, 20 Jun 2022 22:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/test/</guid>
+      <guid>https://zvcq.github.io/post/test/</guid>
       <description>제목 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
