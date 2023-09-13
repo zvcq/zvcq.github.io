@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2023-09-14T00:21:21+09:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/</loc>
+    <lastmod>2023-09-14T00:21:21+09:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/test2/</loc>
+    <lastmod>2023-09-14T00:21:21+09:00</lastmod>
+  </url><url>
     <loc>https://example.org/categories/</loc>
     <lastmod>2022-06-20T22:00:00+00:00</lastmod>
   </url><url>
@@ -15,12 +24,6 @@
     <lastmod>2022-06-20T22:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/post/test/</loc>
-    <lastmod>2022-06-20T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2022-06-20T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/post/</loc>
     <lastmod>2022-06-20T22:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/</loc>
