@@ -1,3 +1,1 @@
-User-agent: *
-Disallow:
-Sitemap: https://zvcq.github.io/sitemap.xml
+#DaumWebMasterTool:1c17f9e277b38e18058c4c694bf84d5a432e72192182e1f4ad74854522f877b2:At/LsTajb80SEtj/TuIIHw==
