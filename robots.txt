@@ -1,5 +1,4 @@
 User-agent: *
 Disallow:
 Sitemap: https://zvcq.github.io/sitemap.xml
-
-#DaumWebMasterTool:1c17f9e277b38e18058c4c694bf84d5a432e72192182e1f4ad74854522f877b2:At/LsTajb80SEtj/TuIIHw==
+#DaumWebMasterTool:9d0d2e3a49ca4f402dde9f042dd1e1ac39432eed961c17f3faabcb8d1d6ab019:At/LsTajb80SEtj/TuIIHw==
