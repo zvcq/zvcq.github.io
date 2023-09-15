@@ -5,7 +5,7 @@
     <loc>https://zvcq.github.io/post/</loc>
     <lastmod>2023-09-14T02:53:40+09:00</lastmod>
   </url><url>
-    <loc>https://zvcq.github.io/post/test/</loc>
+    <loc>https://zvcq.github.io/test/test.html/</loc>
     <lastmod>2023-09-14T02:53:40+09:00</lastmod>
   </url><url>
     <loc>https://zvcq.github.io/</loc>
@@ -16,6 +16,8 @@
     <loc>https://zvcq.github.io/categories/</loc>
   </url><url>
     <loc>https://zvcq.github.io/search/</loc>
+  </url><url>
+    <loc>https://zvcq.github.io/tags/</loc>
   </url><url>
     <loc>https://zvcq.github.io/tags/</loc>
   </url>
