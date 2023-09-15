@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on zvcq&#39;s Blog</title>
-    <link>https://zvcq.github.io/post/</link>
-    <description>Recent content in Posts on zvcq&#39;s Blog</description>
+    <title>OpenGL on zvcq&#39;s Blog</title>
+    <link>https://zvcq.github.io/tags/opengl/</link>
+    <description>Recent content in OpenGL on zvcq&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 15 Sep 2023 20:47:07 +0900</lastBuildDate><atom:link href="https://zvcq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 20:47:07 +0900</lastBuildDate><atom:link href="https://zvcq.github.io/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2D 타일 기반 랜더링 시스템을 설계 중 생긴 고민</title>
       <link>https://zvcq.github.io/test/challenges-in-tile-based-rendering-systme-with-opengl.html/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://zvcq.github.io/test/challenges-in-tile-based-rendering-systme-with-opengl.html/</guid>
       <description>Intro </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://zvcq.github.io/test/test.html/</link>
-      <pubDate>Thu, 14 Sep 2023 02:53:40 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/test/test.html/</guid>
-      <description>hello world sub1 sub-sub1 $$\int_{a}^{b} x^2 dx$$
-sub-sub2 \[\int_a^b f(x)\]
-sub2 sub3 </description>
     </item>
     
   </channel>

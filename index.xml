@@ -6,7 +6,16 @@
     <description>Recent content on zvcq&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 14 Sep 2023 02:53:40 +0900</lastBuildDate><atom:link href="https://zvcq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 20:47:07 +0900</lastBuildDate><atom:link href="https://zvcq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2D 타일 기반 랜더링 시스템을 설계 중 생긴 고민</title>
+      <link>https://zvcq.github.io/test/challenges-in-tile-based-rendering-systme-with-opengl.html/</link>
+      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
+      
+      <guid>https://zvcq.github.io/test/challenges-in-tile-based-rendering-systme-with-opengl.html/</guid>
+      <description>Intro </description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://zvcq.github.io/test/test.html/</link>
