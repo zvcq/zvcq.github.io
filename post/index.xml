@@ -8,20 +8,11 @@
     <language>ko-KR</language>
     <lastBuildDate>Fri, 15 Sep 2023 20:47:07 +0900</lastBuildDate><atom:link href="https://zvcq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2D 타일 기반 랜더링 시스템을 설계 중 생긴 고민</title>
-      <link>https://zvcq.github.io/test/challenges-in-tile-based-rendering-systme-with-opengl.html/</link>
-      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/test/challenges-in-tile-based-rendering-systme-with-opengl.html/</guid>
-      <description>Intro </description>
-    </item>
-    
-    <item>
       <title>Test</title>
-      <link>https://zvcq.github.io/test/test.html/</link>
+      <link>https://zvcq.github.io/post/test/</link>
       <pubDate>Thu, 14 Sep 2023 02:53:40 +0900</pubDate>
       
-      <guid>https://zvcq.github.io/test/test.html/</guid>
+      <guid>https://zvcq.github.io/post/test/</guid>
       <description>hello world sub1 sub-sub1 $$\int_{a}^{b} x^2 dx$$
 sub-sub2 \[\int_a^b f(x)\]
 sub2 sub3 </description>
