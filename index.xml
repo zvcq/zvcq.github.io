@@ -31,9 +31,18 @@ sub2 sub3 </description>
     </item>
     
     
+    <item>
+      <title>Post-its</title>
+      <link>https://zvcq.github.io/post-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zvcq.github.io/post-it/</guid>
+      <description>Brainwaves</description>
+    </item>
+    
     
     <item>
-      <title>tags</title>
+      <title>Tags</title>
       <link>https://zvcq.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
