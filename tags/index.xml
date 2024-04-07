@@ -5,52 +5,6 @@
     <link>https://zvcq.github.io/tags/</link>
     <description>Recent content in Tags on zvcq&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-KR</language>
-    <lastBuildDate>Fri, 15 Sep 2023 20:47:07 +0900</lastBuildDate><atom:link href="https://zvcq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2D</title>
-      <link>https://zvcq.github.io/tags/2d/</link>
-      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/tags/2d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OpenGL</title>
-      <link>https://zvcq.github.io/tags/opengl/</link>
-      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/tags/opengl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rendering</title>
-      <link>https://zvcq.github.io/tags/rendering/</link>
-      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/tags/rendering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VAO</title>
-      <link>https://zvcq.github.io/tags/vao/</link>
-      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/tags/vao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VBO</title>
-      <link>https://zvcq.github.io/tags/vbo/</link>
-      <pubDate>Fri, 15 Sep 2023 20:47:07 +0900</pubDate>
-      
-      <guid>https://zvcq.github.io/tags/vbo/</guid>
-      <description></description>
-    </item>
-    
+    <language>ko-KR</language><atom:link href="https://zvcq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
